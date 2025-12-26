@@ -73,7 +73,7 @@ Kodevara resources are designed for:
 
 ---
 
-## Repository Standards
+## Repository Standard
 
 Each repository typically includes:
 
